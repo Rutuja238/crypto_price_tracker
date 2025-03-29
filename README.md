@@ -51,7 +51,7 @@ For Android 13+, **you must allow notifications manually**:
 ---
 
 ## Demo 🎥  
-![Crypto Price Tracker Demo](https://drive.google.com/file/d/1_Enf9R46lNTQEeMY72BUohSlJqgv5gxT/view?usp=sharing)
+![Crypto Price Tracker Demo](https://youtube.com/shorts/ZTrxj0JxoQ0?feature=share)
 
 ## 🏰️ Tech Stack
 
